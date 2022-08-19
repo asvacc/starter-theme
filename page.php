@@ -1,5 +1,6 @@
 <?php
 /**
+ * Template Name: Default
  * The template for displaying all pages
  *
  * This is the template that displays all pages by default.
@@ -7,9 +8,6 @@
  * and that other 'pages' on your WordPress site may use a
  * different template.
  *
- * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
- *
- * @package test
  */
 
  get_header();

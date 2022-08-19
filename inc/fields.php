@@ -24,6 +24,7 @@ if (!function_exists('crb_load')) {
     function crb_load()
     {
         \Carbon_Fields\Carbon_Fields::boot();
+        
         $classes = [
             Blocks\WYSIWYG::class
         ];
